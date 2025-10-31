@@ -11,6 +11,7 @@ from .export import DeliveryPackage
 from .ingestion import load_materials
 from .organization import persist_segments, segment_materials
 from .outline import generate_outline
+from .revision import apply_revision_directives
 
 
 @dataclass
@@ -22,6 +23,7 @@ class PipelineConfig:
     organized_dir: Path
     draft_path: Path
     final_dir: Path
+    revision_directives_path: Path
 
 
 class WritingPipeline:
@@ -39,6 +41,7 @@ class WritingPipeline:
 
         outline = generate_outline(segments)
         draft = build_draft(outline, segments, self.config.title)
+        draft = apply_revision_directives(draft, self.config.revision_directives_path)
         save_draft(draft, self.config.draft_path)
 
         metadata: Dict[str, str] = {
@@ -63,6 +66,7 @@ def default_config(base_path: Path, title: str) -> PipelineConfig:
         organized_dir=base_path / "materials" / "organized",
         draft_path=base_path / "materials" / "output" / "drafts" / "draft.md",
         final_dir=base_path / "materials" / "output" / "final",
+        revision_directives_path=base_path / "materials" / "output" / "logs" / "revision-directives.md",
     )
 
 
