@@ -60,6 +60,28 @@ This plan details how heterogeneous source materials are normalized, segmented, 
 4. Populate `materials/organized/_index.csv` with one row per segment, noting the originating source and a short summary line.
 5. Summarize prioritization logic in this document so future collaborators understand why certain sources rank higher.
 
+#### Current bucket definitions (updated 2025-10-31)
+
+| Priority | Bucket | Focus | Example signals |
+|----------|--------|-------|-----------------|
+| 01 | `problem_context` | Pain points,战略背景、项目必要性 | “痛点”“必要性”“挑战”“意义” |
+| 02 | `strategy_governance` | 顶层设计、协同机制、政策支撑 | “顶层设计”“治理”“教务处”“协同” |
+| 03 | `technology_system` | 三层架构、技术栈、知识图谱、智能体 | “技术体系”“知识图谱”“tiangong”“模型层” |
+| 04 | `implementation_process` | 推进步骤、运行模式、实践安排 | “实施”“路径”“阶段”“推进” |
+| 05 | `teaching_innovation` | 课堂与课程应用、智能学伴、学习路径 | “教学”“课程”“学习路径”“智能学伴” |
+| 06 | `impact_evaluation` | 成效指标、数据看板、教师/学生反馈 | “完成率”“掌握率”“成效”“指标” |
+| 07 | `sustainability_scaling` | 长效运营、推广复制、跨校扩展 | “可持续”“推广”“复制”“扩展” |
+| 08 | `challenges_mitigation` | 风险识别、难点与对策、治理建议 | “挑战”“风险”“对策”“瓶颈” |
+| 09 | `misc` | 待人工复核的信息片段 | 无明确主题匹配 |
+
+Run the following command whenever you need to refresh segments after updating either the materials or keyword map:
+
+```bash
+uv run python -c "from pathlib import Path; from src.ingestion import load_materials; from src.organization import segment_materials, persist_segments; materials = load_materials(Path('materials/raw')); segments = segment_materials(materials); persist_segments(segments, Path('materials/organized'))"
+```
+
+The current index (generated during this run) contains 268 segments sourced from five JSON transcripts, with the densest coverage in `technology_system` and `teaching_innovation`. Administrative boilerplate and UI fragments are auto-filtered; any remaining snippets are written to `materials/organized/staging/archived_misc/` for audit purposes and excluded from the index so the outline pass stays focused on narrative-ready evidence.
+
 ### `@outline.md`
 
 **Context**

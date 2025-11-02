@@ -106,3 +106,5 @@ uv run python scripts/run_pipeline.py
 ### Git Workflow
 - Do not commit without explicit user approval
 - When committing, craft descriptive messages aligned with repository conventions
+- Keep `.env`, `.env.*`, local virtual environments, `__pycache__/`, and every directory under `materials/` (raw intake, organized segments, generated outputs) out of version control—these paths are ignored by `.gitignore` and must never be re-added
+- If any of those artifacts were previously tracked, run `git rm --cached <path>` to drop them before pushing

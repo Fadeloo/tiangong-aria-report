@@ -1,0 +1,21 @@
+# Project materials and generated artifacts; keep runtime data out of version control.
+materials/
+materials/raw/
+materials/organized/
+materials/output/
+materials/output/**
+
+# Local environment secrets and virtual environments
+.env
+.env.*
+.venv/
+venv/
+
+# Python bytecode caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local logs and run artifacts
+*.log
+.cache/

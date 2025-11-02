@@ -4,9 +4,10 @@ from __future__ import annotations
 
 from dataclasses import dataclass
 from pathlib import Path
-from typing import Dict, List
+from typing import Dict, List, Optional, Protocol, Sequence
 
-from .outline import OutlinePlan
+from .organization import Segment
+from .outline import OutlinePlan, OutlineSection
 from .utils import write_text_file
 
 
@@ -27,12 +28,30 @@ class Draft:
         return "\n".join(lines)
 
 
-def build_draft(outline: OutlinePlan, segment_lookup: Dict[str, List[str]], title: str) -> Draft:
-    """Create a draft by stitching outline headings to supporting paragraphs."""
+class SectionWriter(Protocol):
+    """Contract implemented by orchestration layers that craft section prose."""
+
+    def write_section(self, section: OutlineSection, segments: Sequence[Segment]) -> str:
+        """Return fully drafted prose for the supplied outline section."""
+
+
+def build_draft(
+    outline: OutlinePlan,
+    segment_lookup: Dict[str, List[Segment]],
+    title: str,
+    section_writer: Optional[SectionWriter] = None,
+) -> Draft:
+    """Create a draft by delegating each section to the configured writer."""
 
     sections: Dict[str, str] = {}
     for section in outline.sections:
-        combined = "\n\n".join(segment_lookup.get(section.title.lower(), []))
+        key = section.title.lower().replace(" ", "_")
+        bucket_segments = segment_lookup.get(key, [])
+        if section_writer is not None:
+            generated = section_writer.write_section(section, bucket_segments)
+            sections[section.title] = generated or "TODO: Add content"
+            continue
+        combined = "\n\n".join(segment.text for segment in bucket_segments)
         sections[section.title] = combined or "TODO: Add content"
     return Draft(title=title, sections=sections)
 

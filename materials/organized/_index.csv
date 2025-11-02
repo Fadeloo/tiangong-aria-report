@@ -1,1 +1,269 @@
 identifier,topic,priority,notes,source_path
+SEG-040,problem_context,1,（四）可能存在的技术风险和伦理风险,response_1761903861983.json.normalized.txt
+SEG-084,problem_context,1,哈佛大学《计算机科学概论》任课教师展示人工智能助教,response_1761904025700.json.normalized.txt
+SEG-087,problem_context,1,回答问题19.1万个,response_1761904025700.json.normalized.txt
+SEG-110,problem_context,1,能力,response_1761904025700.json.normalized.txt
+SEG-126,problem_context,1,请告诉我你感兴趣的方向，可以是一个课题、学习目标或其他问题,response_1761904025700.json.normalized.txt
+SEG-172,problem_context,1,The document illustrates the capability to translate theoretical environmental science principles into structured  compu,response_1761904025700.json.normalized.txt
+SEG-210,problem_context,1,02 人工智能时代高等教育发展面临的关键挑战,response_1761904336509.json.normalized.txt
+SEG-263,problem_context,1,- 擅长回答问题,response_1761904301289.json.normalized.txt
+SEG-315,problem_context,1,- 系统性融入教学全流程,response_1761904301289.json.normalized.txt
+SEG-041,strategy_governance,2,在伦理风险方面，本案例的应用或引发对教师角色的质疑，个性化学习推荐系统需防范潜在偏见，确保教育公平。总体而言，通过健全技术保障和伦理审查机制，上述,response_1761903861983.json.normalized.txt
+SEG-066,strategy_governance,2,专家智慧，人人可享,response_1761904025700.json.normalized.txt
+SEG-078,strategy_governance,2,■ 促进人工智能的相关合作等内容,response_1761904025700.json.normalized.txt
+SEG-099,strategy_governance,2,人工经验决策,response_1761904025700.json.normalized.txt
+SEG-120,strategy_governance,2,- 优势学科：财务管理、商业伦理,response_1761904025700.json.normalized.txt
+SEG-153,strategy_governance,2,虚拟城市、污染治理厂区3D场景构建,response_1761904025700.json.normalized.txt
+SEG-159,strategy_governance,2,区域环境生态系统,response_1761904025700.json.normalized.txt
+SEG-160,strategy_governance,2,固废处理处置系统,response_1761904025700.json.normalized.txt
+SEG-161,strategy_governance,2,该系统不仅服务于城市环境治理的日常运营，更通过环境学科引擎为科研工作提供数据支持与分析能力，实现五分钟掌握学科前沿资讯，五分钟生成超越ChatGPT DeepSearch水平的综述文章，一键撰写研究报告，全面赋能环境学科的智能化研究与创新。,response_1761904025700.json.normalized.txt
+SEG-167,strategy_governance,2,环境学科虚拟仿真教学资源,response_1761904025700.json.normalized.txt
+SEG-186,strategy_governance,2,该项目已入选教育部第二批“人工智能+高等教育”应用场景典型案例。,response_1761904025700.json.normalized.txt
+SEG-188,strategy_governance,2,该平台的开发与运行得到了教务处、学堂在线和秀钟书院的支持。,response_1761904025700.json.normalized.txt
+SEG-190,strategy_governance,2,环境学院团队,response_1761904025700.json.normalized.txt
+SEG-191,strategy_governance,2,感谢教务处、学堂在线、秀钟书院支持,response_1761904025700.json.normalized.txt
+SEG-192,strategy_governance,2,入选教育部第二批“人工智能+高等教育”应用场景典型案例,response_1761904025700.json.normalized.txt
+SEG-214,strategy_governance,2,03 生成式人工智能给高等教育发展带来的机遇,response_1761904336509.json.normalized.txt
+SEG-275,strategy_governance,2,AI赋能教育：从通用到个性的智能进化,response_1761904301289.json.normalized.txt
+SEG-291,strategy_governance,2,自主研发AI平台君谋支持AI助教,response_1761904301289.json.normalized.txt
+SEG-318,strategy_governance,2,清华大学正为全球高等教育的未来发展贡献着独特的"清华智慧"与"清华方案",response_1761904301289.json.normalized.txt
+SEG-319,strategy_governance,2,□ 教务处、学堂在线、秀钟书院支持,response_1761904301289.json.normalized.txt
+SEG-001,technology_system,3,“人工智能+高等教育”典型应用场景案例申报书,response_1761903861983.json.normalized.txt
+SEG-008,technology_system,3,环境学院组建专项研发团队，携手学堂在线、智谱AI共同打造应用层、引擎层和模型层三层解耦的体系架构。其中，应用层从师生一线需求出发，接入学堂在线雨课堂智慧平台；引擎层依托全球首个环境学科落地应用系列工具“天工AI”系列技术成果，基于专业知识库,response_1761903861983.json.normalized.txt
+SEG-009,technology_system,3,On the left  a dropdown menu under "My AI Course" lists the 10 selected courses  with "Environmental Engineering Princip,response_1761903861983.json.normalized.txt
+SEG-012,technology_system,3,The overall design reflects the application layer of the AI engine  which is built upon the "Tiangong AI" series of tool,response_1761903861983.json.normalized.txt
+SEG-013,technology_system,3,The interface is designed for student learning  providing personalized  on-demand support. It features a chat-based inte,response_1761903861983.json.normalized.txt
+SEG-015,technology_system,3,The application leverages a multi-layered AI architecture. The application layer  built on the "Tiangong AI" series tech,response_1761903861983.json.normalized.txt
+SEG-020,technology_system,3,该应用通过“应用层”与“学堂在线雨课堂智慧平台”对接，实现了从师生一线需求出发的智能服务，是“环境学科人工智能引擎”在教学场景中实现知识和功能双驱动的具体体现。,response_1761903861983.json.normalized.txt
+SEG-021,technology_system,3,- **Application Layer**: The interface shows the integration of the "Tian Gong AI" series tools with the "Rain Classroom,response_1761903861983.json.normalized.txt
+SEG-022,technology_system,3,- **Engine Layer**: The tool's ability to generate a question based on the content of the slide  as seen in the "One-Cli,response_1761903861983.json.normalized.txt
+SEG-023,technology_system,3,- **Model Layer**: The AI's performance in generating a coherent and contextually relevant multiple-choice question demo,response_1761903861983.json.normalized.txt
+SEG-032,technology_system,3,该架构实现了功能与知识的双驱动，三层结构相互对接又相对独立，确保各层升级互不干扰，共同提升了师生应用体验并尽力消除模型幻觉。,response_1761903861983.json.normalized.txt
+SEG-033,technology_system,3,（二）技术突破内容,response_1761903861983.json.normalized.txt
+SEG-048,technology_system,3,一、基本信息,response_1761903897184.json.normalized.txt
+SEG-049,technology_system,3,(2)低代码与拖拽式开发,response_1761903897184.json.normalized.txt
+SEG-050,technology_system,3,(3)工具箱的升级与维护,response_1761903897184.json.normalized.txt
+SEG-056,technology_system,3,二、项目经费预算表,response_1761903897184.json.normalized.txt
+SEG-063,technology_system,3,基于环境学科知识引擎的,response_1761904025700.json.normalized.txt
+SEG-064,technology_system,3,岳东北,response_1761904025700.json.normalized.txt
+SEG-065,technology_system,3,■近期，生成式人工智能展示了在生成文字、图像、代码、视频等方面的强大能力，大语言模型（LLM）处理复杂任务、多轮对话和超长文本的能力不断增强，大型多模态模型（LMM）正在教育等场景加强应用,response_1761904025700.json.normalized.txt
+SEG-068,technology_system,3,高级创意写作能力,response_1761904025700.json.normalized.txt
+SEG-070,technology_system,3,DeepSeek-V3模型更新，各项能力全面进阶，在网页端、APP和API全面上线，点击查看详情。,response_1761904025700.json.normalized.txt
+SEG-071,technology_system,3,deepseek,response_1761904025700.json.normalized.txt
+SEG-072,technology_system,3,与DeepSeek-V3和R1免费对话体验全新旗舰模型,response_1761904025700.json.normalized.txt
+SEG-073,technology_system,3,DeepSeek官方推出的免费AI助手搜索写作阅读解题翻译工具,response_1761904025700.json.normalized.txt
+SEG-074,technology_system,3,2025年1月，DeepSeekR1模型发布，展现出性能、场景与创新的多维竞争力。实现效率与精度双突破，在中文任务、代码生成、实时决策（零售库存联调、教育个性化推荐）等场景表现突出，具有开源生态与技术前瞻性,response_1761904025700.json.normalized.txt
+SEG-083,technology_system,3,requireparticulartoolsorlibraries ithasnodatabaseabstractionlayer formvalidation oranyother,response_1761904025700.json.normalized.txt
+SEG-088,technology_system,3,专业能力图谱「指导」,response_1761904025700.json.normalized.txt
+SEG-089,technology_system,3,AI个性化学习规划引擎「驱动」,response_1761904025700.json.normalized.txt
+SEG-091,technology_system,3,清华大学环境学科知识引擎架构,response_1761904025700.json.normalized.txt
+SEG-093,technology_system,3,环境学科40年积累的具备高知识密度的萃取知识 (200万Token量级),response_1761904025700.json.normalized.txt
+SEG-094,technology_system,3,- The materials include textbooks such as "Solid Waste Disposal and Resource Utilization " "Principles and Technology of,response_1761904025700.json.normalized.txt
+SEG-096,technology_system,3,该流程最终服务于“清华大学环境学科知识引擎-学科知识图谱”的建设，是构建“AI学习中枢”和“课程式学习”功能模块的基础。,response_1761904025700.json.normalized.txt
+SEG-097,technology_system,3,基于智能体的知识图谱构建,response_1761904025700.json.normalized.txt
+SEG-098,technology_system,3,完整的知识图谱构建智能体工作流,response_1761904025700.json.normalized.txt
+SEG-100,technology_system,3,清华大学环境学科知识引擎功能模块建设,response_1761904025700.json.normalized.txt
+SEG-101,technology_system,3,清华大学环境学科知识引擎-课程式学习,response_1761904025700.json.normalized.txt
+SEG-102,technology_system,3,On the left side  the following modules are connected:,response_1761904025700.json.normalized.txt
+SEG-103,technology_system,3,On the right side  the following modules are connected:,response_1761904025700.json.normalized.txt
+SEG-104,technology_system,3,The overall structure illustrates a comprehensive knowledge system designed to support the "能力培养为牵引的个性化学习" (ability-orie,response_1761904025700.json.normalized.txt
+SEG-115,technology_system,3,雨洪水动力模型,response_1761904025700.json.normalized.txt
+SEG-125,technology_system,3,清华大学环境学科知识引擎-个性化学习,response_1761904025700.json.normalized.txt
+SEG-133,technology_system,3,清华大学环境学科知识引擎-精选学习资源,response_1761904025700.json.normalized.txt
+SEG-136,technology_system,3,Water and Wastewater Treatment Engineerin...,response_1761904025700.json.normalized.txt
+SEG-137,technology_system,3,老师：左剑恶,response_1761904025700.json.normalized.txt
+SEG-141,technology_system,3,TREATMENT ENGINEERING,response_1761904025700.json.normalized.txt
+SEG-144,technology_system,3,WATER AND WASTEWATER,response_1761904025700.json.normalized.txt
+SEG-145,technology_system,3,BIOCHEMICAL TECHNOLOGY,response_1761904025700.json.normalized.txt
+SEG-147,technology_system,3,水处理工程-生化技术,response_1761904025700.json.normalized.txt
+SEG-152,technology_system,3,学科引擎和虚拟仿真资源共同支撑学习范式变革,response_1761904025700.json.normalized.txt
+SEG-158,technology_system,3,环境学科系统设计教学模块,response_1761904025700.json.normalized.txt
+SEG-162,technology_system,3,平台通过构建AI助教、助学、评价与诊断功能，实现对环境学科知识的智能化应用。核心是环境学科知识引擎，该引擎服务于科研工作，能够快速提供学科前沿资讯，并在五分钟内生成超越ChatGPT DeepSearch水平的综述文章，支持一键撰写研究报告,response_1761904025700.json.normalized.txt
+SEG-163,technology_system,3,界面中，用户可通过“任务列表”选择“垃圾进料”等模块进行学习，平台以三维模型直观展示焚烧炉的结构与工作流程，并通过“设备介绍”、“反应机理”等标签提供详细知识，实现对专业知识的深度理解与应用。,response_1761904025700.json.normalized.txt
+SEG-165,technology_system,3,平台集成AI助教、助学、评价与诊断功能，通过“物质循环-元素选择”等智能模块，支持用户一键生成研究报告，五分钟掌握学科前沿资讯，五分钟生成超越ChatGPT DeepSearch水平的综述文章。,response_1761904025700.json.normalized.txt
+SEG-168,technology_system,3,互为支撑,response_1761904025700.json.normalized.txt
+SEG-169,technology_system,3,环境学科知识引擎,response_1761904025700.json.normalized.txt
+SEG-171,technology_system,3,一键撰写研究报告,response_1761904025700.json.normalized.txt
+SEG-173,technology_system,3,The presence of such detailed  formulaic content highlights the need for sophisticated  domain-specific intelligent agen,response_1761904025700.json.normalized.txt
+SEG-174,technology_system,3,一周快速完成专业领域报告从0到1的撰写,response_1761904025700.json.normalized.txt
+SEG-175,technology_system,3,拖拽式快速实现智能体工作流设计，自由调整实验方案,response_1761904025700.json.normalized.txt
+SEG-179,technology_system,3,藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藻藥藥藥藥藥藥藥藥藥藥藥藥藥藥藥藥藥藥藥藥,response_1761904025700.json.normalized.txt
+SEG-187,technology_system,3,平台界面显示了“环境智能教学助手”功能，包含“智能问答”、“智能写作”、“智能分析”、“智能评估”等模块，支持用户进行问题提问和内容生成。,response_1761904025700.json.normalized.txt
+SEG-189,technology_system,3,相关技术组件包括tiangong-ai-mcp、tiangong-ai-langgraph-server、liangong-ai-langgraph-server和T1iangGong-Al-Unstructure等开源项目。,response_1761904025700.json.normalized.txt
+SEG-193,technology_system,3,第二批 人工智能+高等教育 应用场景典型案例名单,response_1761904025700.json.normalized.txt
+SEG-197,technology_system,3,环境学科人工智能引擎的探索与实践,response_1761904025700.json.normalized.txt
+SEG-208,technology_system,3,环境学科人工智能引擎的探索与实践,response_1761904336509.json.normalized.txt
+SEG-209,technology_system,3,01 引言,response_1761904336509.json.normalized.txt
+SEG-219,technology_system,3,04 清华大学环境学科在人工智能赋能教育中的探索,response_1761904336509.json.normalized.txt
+SEG-222,technology_system,3,4.2 打造三层解耦体系架构,response_1761904336509.json.normalized.txt
+SEG-223,technology_system,3,The system is structured into three distinct layers:,response_1761904336509.json.normalized.txt
+SEG-224,technology_system,3,The system's capabilities are supported by a "Model Foundation" that includes AI technologies  with a focus on model tra,response_1761904336509.json.normalized.txt
+SEG-232,technology_system,3,[6] 齐剑川  史文杰  徐常青  等. 生成式人工智能在环境工程中的应用前瞻[J]. 环境工程学报  2024  18(9): 2375-2380.,response_1761904336509.json.normalized.txt
+SEG-235,technology_system,3,清华大学环境学科,response_1761904301289.json.normalized.txt
+SEG-237,technology_system,3,https://www.tiangong-earth/ai,response_1761904301289.json.normalized.txt
+SEG-241,technology_system,3,M,response_1761904301289.json.normalized.txt
+SEG-243,technology_system,3,大型语言模型 (Large Language Model) 是指使用大量型。这些模型通常使用深度学习技术  如神经网络来训语言模型可以用来进行各种自然语言处理任务  如文本,response_1761904301289.json.normalized.txt
+SEG-244,technology_system,3,人工智能相关概念之间的关系（新旧AI范式同等重要）,response_1761904301289.json.normalized.txt
+SEG-245,technology_system,3,基于大模型的生成式人工智能(GENERATIVE AI),response_1761904301289.json.normalized.txt
+SEG-251,technology_system,3,Microsoft integrates a version of ChatGPT into its Bing search engine. Google,response_1761904301289.json.normalized.txt
+SEG-253,technology_system,3,7,response_1761904301289.json.normalized.txt
+SEG-257,technology_system,3,大模型,response_1761904301289.json.normalized.txt
+SEG-260,technology_system,3,> 传统机器学习能力的边界很清晰，大模型的能力边界模糊且不断扩展。,response_1761904301289.json.normalized.txt
+SEG-261,technology_system,3,传统机器学习是“专才”，大模型是“通才”+“意外天赋”,response_1761904301289.json.normalized.txt
+SEG-264,technology_system,3,大模型智能体与传统机器学习的协同增效,response_1761904301289.json.normalized.txt
+SEG-265,technology_system,3,$\succ$  大模型作为智能体，可以灵活调度这些模型，把它们嵌入到更复杂的任务链路里。,response_1761904301289.json.normalized.txt
+SEG-266,technology_system,3,基于机器学习的模型,response_1761904301289.json.normalized.txt
+SEG-269,technology_system,3,·记忆与反馈：记录调整效果，类似工况下更快找到合适方案,response_1761904301289.json.normalized.txt
+SEG-271,technology_system,3,人类专家尝试了本次实验中智能体建议的10种初始药物（AI建议使用ARP 19细胞和流式细胞术模拟）,response_1761904301289.json.normalized.txt
+SEG-282,technology_system,3,技术普及与融合,response_1761904301289.json.normalized.txt
+SEG-293,technology_system,3,Flask is a micro web framework written in Python. It is classified as a microframework because it does not,response_1761904301289.json.normalized.txt
+SEG-297,technology_system,3,哈佛大学《计算机科学概论》任课教师展示人工智能助教,response_1761904301289.json.normalized.txt
+SEG-303,technology_system,3,学科知识引擎「支撑」,response_1761904301289.json.normalized.txt
+SEG-311,technology_system,3,02,response_1761904301289.json.normalized.txt
+SEG-323,technology_system,3,- The setting is an indoor educational or training environment  likely a university or research institution  reflecting ,response_1761904301289.json.normalized.txt
+SEG-327,technology_system,3,环境学科人工智能引擎的探索与实践,response_1761904301289.json.normalized.txt
+SEG-335,technology_system,3,The database includes:,response_1761904301289.json.normalized.txt
+SEG-336,technology_system,3,The data is organized by type  with visualizations showing the number of records and chunks over time for journals  ESG ,response_1761904301289.json.normalized.txt
+SEG-338,technology_system,3,| 课程名称 | 已处理资料 (已完成/总量) | 工作总结 | 处理进度 |  |,response_1761904301289.json.normalized.txt
+SEG-339,technology_system,3,The processing of these materials  including textbooks  course slides  and reference books  has resulted in a knowledge ,response_1761904301289.json.normalized.txt
+SEG-340,technology_system,3,基础：清华天工环境大模型,response_1761904301289.json.normalized.txt
+SEG-345,technology_system,3,环境领域专业问题上表现更精准、响应更迅速，适用于实时评估和政策决策支持等应用场景,response_1761904301289.json.normalized.txt
+SEG-346,technology_system,3,> 利用多层级智能体应用框架研发专业领域智能体,response_1761904301289.json.normalized.txt
+SEG-347,technology_system,3,单元工作层以Unit Agents为核心，包含Basic Function和Graph Agent两种类型，其工作流程包括检索、文档评分、条件判断、生成和查询转换等节点。,response_1761904301289.json.normalized.txt
+SEG-348,technology_system,3,完整工作层由Team Agents构成，包含Unit Agents1、Unit Agents2-1、Unit Agents2-2等，通过协作完成任务，最终输出为Unit Agents 3，体现了一种“ONE WAY”单向推进的工作模式。,response_1761904301289.json.normalized.txt
+SEG-351,technology_system,3,第三阶段,response_1761904301289.json.normalized.txt
+SEG-030,implementation_process,4,在技术应用创新方面，吸取现阶段大模型在环境可持续领域落地实践和技术经验，改善大模型在教学领域因掌握知识不足，无法提供有效回答的痛点，为大模型赋能教育智慧化发展提供技术基础。创新性地构建了模型、引擎、应用三层解耦体系架构，三个层级相互对接又相,response_1761903861983.json.normalized.txt
+SEG-046,implementation_process,4,“环境学科人工智能引擎在协助设计课后习题和准备讲义方面非常实用。我能够使用它根据课程内容和学生的学习情况自动生成课后习题，并提供详细的答案模板，还能根据知识点自动生成讲义，更高效地为老师准备教学辅助材料，不仅减轻了我们的工作量，还提高了工作,response_1761903861983.json.normalized.txt
+SEG-057,implementation_process,4,(一)设备费：指项目实施过程中购置或试制专用仪器设备，对现有仪器设备进行升级改造。计算类仪器设备和软件工具可在设备费科目列支。,response_1761903897184.json.normalized.txt
+SEG-058,implementation_process,4,(二)业务费：指项目实施过程中消耗的各种材料、辅助材料等费用，发生的测试化验加工、出版/文献/信息传播/知识产权事务、会议/差旅/国际合作交流等费用，教学科研仪器设备、实验室的维护修理等相关支出。,response_1761903897184.json.normalized.txt
+SEG-059,implementation_process,4,(三)劳务费：指项目实施过程中支付给参与项目的研究生、博士后、访问学者和项目聘用的研究人员、科研辅助人员等的劳务性费用，以及支付给临时聘请的咨询专家的费用等。相关费用人员发放标准按照学校规定发放。,response_1761903897184.json.normalized.txt
+SEG-060,implementation_process,4,(四)预算调整：各资助人按照建设任务和经费执行相关性原则，严格执行预算，一般不作调整。如确因特殊需要，项目支出结构之间需要调整的，请及时沟通。预算调整说明提交学科办和财务处备案。,response_1761903897184.json.normalized.txt
+SEG-061,implementation_process,4,(五)承担单位及项目负责人承诺认真履行有关科研诚信和社会信用管理各项规定，严格遵守《清华大学建设世界一流大学(学科)和特色发展引导专项资金管理办法》《清华大学自主科研计划实施办法》等相关规定，合理标注研究成果、合理使用经费。,response_1761903897184.json.normalized.txt
+SEG-062,implementation_process,4,(六)学科建设经费不能列支物业费、保洁费、餐费、行政办公设备家具费、行政人员费、事业编制人员费。,response_1761903897184.json.normalized.txt
+SEG-085,implementation_process,4,清华大学AI赋能教学实践,response_1761904025700.json.normalized.txt
+SEG-095,implementation_process,4,持续扩充,response_1761904025700.json.normalized.txt
+SEG-148,implementation_process,4,结合师生试用意见持续优化,response_1761904025700.json.normalized.txt
+SEG-149,implementation_process,4,| 第二阶段 | 引擎层与应用层衔接 | 个性化学习空间 | 个性化学习路径 | ■初步建成个性化学习空间，实现学生个性化学习 路径规划，并具备24小时智能学伴、智能出题和 资源推荐等功能 ■组织68人试用，反馈意见70条，持续优化改进 |,response_1761904025700.json.normalized.txt
+SEG-177,implementation_process,4,环境学科引擎开发与应用体系,response_1761904025700.json.normalized.txt
+SEG-180,implementation_process,4,- 面向教学与科研应用可落地系列智能体工具,response_1761904025700.json.normalized.txt
+SEG-183,implementation_process,4,电 电电电电电电电电电电电电电电电电电电电电电电电电电电电电电电电电电电电电电电电电电电电电电电电电电电电电电电电电电电电电电电电电电电电电电电电电电电电电电电电电电电电电电电电电电电电电电电电电电电电电,response_1761904025700.json.normalized.txt
+SEG-184,implementation_process,4,掌握AI落地的开发和应用技术,response_1761904025700.json.normalized.txt
+SEG-198,implementation_process,4,01 引言,response_1761904025700.json.normalized.txt
+SEG-220,implementation_process,4,知识和场景化理解，目前主要依托基础模型能力，应用效果仍需提升。现阶段，其在高等教育领域落地面临专业知识覆盖不足、场景认知理解欠缺、知识更新滞后、模型优化不足等多项挑战。针对上述挑战，清华大学环境学院在人工智能赋能教育实践中，充分利用了学院生,response_1761904336509.json.normalized.txt
+SEG-288,implementation_process,4,□ 国际上高等教育领域的AI应用涵盖教学、科研、管理等多个层面，呈现出丰富多样的创新实践,response_1761904301289.json.normalized.txt
+SEG-299,implementation_process,4,清华大学的AI赋能教学实践,response_1761904301289.json.normalized.txt
+SEG-328,implementation_process,4,01 引言,response_1761904301289.json.normalized.txt
+SEG-330,implementation_process,4,2.2人才培养模式单一，缺乏个性化和创新性,response_1761904301289.json.normalized.txt
+SEG-349,implementation_process,4,21 教学应用：清华大学环境学科人工智能知识引擎,response_1761904301289.json.normalized.txt
+SEG-350,implementation_process,4,第一阶段,response_1761904301289.json.normalized.txt
+SEG-002,teaching_innovation,5,年 月 日,response_1761903861983.json.normalized.txt
+SEG-003,teaching_innovation,5,二、背景（300字以内）,response_1761903861983.json.normalized.txt
+SEG-004,teaching_innovation,5,本案例构建环境学科人工智能引擎，全链条多系统跨介质整合环境专业课程，促进环境学科交叉融通。采用模型、引擎、应用三层解耦体系架构，运用先进人工智能技术整合优化教学资源，为师生提供24小时智能学伴、智能备课、智能批改、智能出题等全方位服务，提升,response_1761903861983.json.normalized.txt
+SEG-006,teaching_innovation,5,（一）需求分析,response_1761903861983.json.normalized.txt
+SEG-007,teaching_innovation,5,（二）技术研发,response_1761903861983.json.normalized.txt
+SEG-010,teaching_innovation,5,The central area features a prominent "24-hour Intelligent Learning Companion" function. It presents a physics problem r,response_1761903861983.json.normalized.txt
+SEG-011,teaching_innovation,5,At the bottom of the screen  a chat input bar invites users to ask questions  such as "Have learning difficulties? Ask y,response_1761903861983.json.normalized.txt
+SEG-014,teaching_innovation,5,The interface is structured to facilitate interactive learning. On the left  a navigation panel lists core AI features: ,response_1761903861983.json.normalized.txt
+SEG-017,teaching_innovation,5,1.  **智能备课助手**：在“水处理工程”课程的“AI应用”界面中，教师可直接向智能助手发出指令，例如“帮我推荐一些关于水处理工程的专业书籍和最新研究论文”。系统随即根据课程内容，从海量知识库中检索并生成结构化的推荐列表，包含专业书籍和,response_1761903861983.json.normalized.txt
+SEG-018,teaching_innovation,5,2.  **24小时智能学习伙伴**：该应用为学生提供全天候的智能学习支持。在“智能备课助手”功能模块中，学生可利用“指令库”功能，通过自然语言指令获取帮助，例如请求系统提供知识点详解或习题解答，实现即时反馈与指导。,response_1761903861983.json.normalized.txt
+SEG-019,teaching_innovation,5,3.  **资源推荐**：系统具备强大的资源检索与推荐能力。在“智能备课助手”界面中，系统不仅推荐了专业书籍和论文，还关联了“其他参考资料”，如美国环保署（EPA）的官方手册和报告，帮助学生拓展知识面，进行深入研究。,response_1761903861983.json.normalized.txt
+SEG-024,teaching_innovation,5,- **Application Optimization**: The tool's features directly support the described applications. For teachers  it offers,response_1761903861983.json.normalized.txt
+SEG-025,teaching_innovation,5,界面左侧为功能导航栏，包含“运行概览”、“应用洞察”、“智能预警”、“学生画像”、“教学评价”、“智能报告”、“运行明细”和“运行调研”等模块，这些功能均服务于教学运行的智能化管理与分析。,response_1761903861983.json.normalized.txt
+SEG-029,teaching_innovation,5,（一）主要创新内容,response_1761903861983.json.normalized.txt
+SEG-031,teaching_innovation,5,- **应用层**：位于架构最顶层，直接面向师生需求，接入新生助手、网络学堂、雨课堂等教学平台，实现精准响应。,response_1761903861983.json.normalized.txt
+SEG-034,teaching_innovation,5,（三）应用实践突破内容,response_1761903861983.json.normalized.txt
+SEG-036,teaching_innovation,5,（四）知识产权情况,response_1761903861983.json.normalized.txt
+SEG-038,teaching_innovation,5,（二）社会经济价值,response_1761903861983.json.normalized.txt
+SEG-042,teaching_innovation,5,（一）案例获奖情况,response_1761903861983.json.normalized.txt
+SEG-043,teaching_innovation,5,（二）用户评价,response_1761903861983.json.normalized.txt
+SEG-044,teaching_innovation,5,“环境工程原理”任课教师席劲瑛：“环境学院牵头开发的环境学科人工智能引擎，表现出了比单一大语言模型更强的功能和更好的体验。从学生视角，可以为学生分析和比较不同概念，还可以给出练习题的详细解题步骤和相,response_1761903861983.json.normalized.txt
+SEG-047,teaching_innovation,5,“环境学科人工智能引擎根据我的学习进度推荐了很多有用的资料，帮助我更好地理解课程内容。这种个性化的支持让我在学习中感觉更加自信。”,response_1761903861983.json.normalized.txt
+SEG-075,teaching_innovation,5,■ 麻省理工大学、哈佛大学、斯坦福大学、耶鲁大学及英国顶尖高校组成的罗素大学集团等，均发布AI赋能教育教学的指南：,response_1761904025700.json.normalized.txt
+SEG-077,teaching_innovation,5,调整教学与评估方式，确保教育公平,response_1761904025700.json.normalized.txt
+SEG-105,teaching_innovation,5,能力培养为牵引的个性化学习,response_1761904025700.json.normalized.txt
+SEG-112,teaching_innovation,5,··,response_1761904025700.json.normalized.txt
+SEG-119,teaching_innovation,5,学生C,response_1761904025700.json.normalized.txt
+SEG-127,teaching_innovation,5,- 实践课题牵引：秀钟书院《超越课堂》,response_1761904025700.json.normalized.txt
+SEG-128,teaching_innovation,5,- 综合任务牵引：研究生AI学术训练助手,response_1761904025700.json.normalized.txt
+SEG-130,teaching_innovation,5,学生B（秀钟书院，大二）：引擎能生成系统的学习方案，比其他大模型给出的回答更加具体，给出了每个知识节点的整体结构、要点与深入研究方面的内容，使用起来体验很好，暂未在其他大模型上看到类似功能,response_1761904025700.json.normalized.txt
+SEG-131,teaching_innovation,5,研究生试用感受,response_1761904025700.json.normalized.txt
+SEG-132,teaching_innovation,5,学生E（水污染控制方向，博士一年级）：引擎生成知识链的逻辑性较强，涉及到的知识系统全面。能够出题并且根据我的答案继续出不同的题目，帮助我更好地理解想要学习的知识点。当我正确回答问题时，会提出更加深入的问题；当我回复错误的答案时，就通过新的问,response_1761904025700.json.normalized.txt
+SEG-135,teaching_innovation,5,大气污染控制工程,response_1761904025700.json.normalized.txt
+SEG-138,teaching_innovation,5,水处理工程-物化技术,response_1761904025700.json.normalized.txt
+SEG-140,teaching_innovation,5,环境工程、市政工程等专业的主干专业课，主要讲述水和废水处理中主要的物化处理方法的基本原理、工艺构成、运行特点、工艺计算方法以及部分工程实例。该课程是从事水处理技术研究、…,response_1761904025700.json.normalized.txt
+SEG-143,teaching_innovation,5,大气污染是当前人类面临的共同挑战。本课程主要讲授大气污染的来源、影响、传输扩散和控制技术，教会学生主要大气污染物控制的基本原理和工艺计算方法。,response_1761904025700.json.normalized.txt
+SEG-151,teaching_innovation,5,界面中包含“习题列表”，学生可以进行客观题和主观题的练习。该平台是清华大学环境学科知识引擎与虚拟仿真资源共同支撑学习范式变革的体现，旨在通过智能技术实现个性化学习路径的动态调整。,response_1761904025700.json.normalized.txt
+SEG-155,teaching_innovation,5,环境学科实验仿真教学模块,response_1761904025700.json.normalized.txt
+SEG-194,teaching_innovation,5,这些模块构成了一个以人工智能为驱动的、模块化的课程体系。该体系旨在淡化传统知识边界，实现超越课程与课堂的教育模式，与上下文所述的“建设一批示范课程”、“新建一批模块课组”、“以AI为驱动”、“实现超越课程、超越课堂”的目标高度一致。该图示体,response_1761904025700.json.normalized.txt
+SEG-199,teaching_innovation,5,02 人工智能时代高等教育发展面临的关键挑战,response_1761904025700.json.normalized.txt
+SEG-201,teaching_innovation,5,2.2人才培养模式单一，缺乏个性化和创新性,response_1761904025700.json.normalized.txt
+SEG-202,teaching_innovation,5,2024年11月1日摩根科技评论,response_1761904025700.json.normalized.txt
+SEG-203,teaching_innovation,5,坚持学校统筹、院系实施、教师投入、学生参与，全方位推动人工智能赋能教育教学工作，培育全校人工智能教学生态,response_1761904025700.json.normalized.txt
+SEG-204,teaching_innovation,5,新建一批模块课组：以AI为驱动，建设模块化课程，淡化知识边界，实现超越课程、超越课堂,response_1761904025700.json.normalized.txt
+SEG-205,teaching_innovation,5,打造一批学习空间：打造深度集成人工智能和空间计算技术的学习空间，以学生为中心，融合虚拟与现实,response_1761904025700.json.normalized.txt
+SEG-211,teaching_innovation,5,2.1 教学内容与社会发展变革衔接不足,response_1761904336509.json.normalized.txt
+SEG-212,teaching_innovation,5,2.2 人才培养模式单一，缺乏个性化和创新性,response_1761904336509.json.normalized.txt
+SEG-213,teaching_innovation,5,2.3 教育资源分配与教师队伍建设亟需提升,response_1761904336509.json.normalized.txt
+SEG-215,teaching_innovation,5,3.1 构建智慧教学新范式，优化教育生态体系,response_1761904336509.json.normalized.txt
+SEG-218,teaching_innovation,5,3.3 重构人才培养机制，增强创新驱动能力,response_1761904336509.json.normalized.txt
+SEG-225,teaching_innovation,5,4.3 构建跨学科的知识体系,response_1761904336509.json.normalized.txt
+SEG-226,teaching_innovation,5,05 总结与展望,response_1761904336509.json.normalized.txt
+SEG-238,teaching_innovation,5,02 人工智能带来的教育智能化变革,response_1761904301289.json.normalized.txt
+SEG-270,teaching_innovation,5,通过对150篇文献进行广泛综述，它提出了一种治疗干性黄斑变性（dAMD）的实验策略。在综合了400多篇科学论文和临床实验报告后，该系统生成了增强RPE吞噬作用的治疗候选药物的假设。,response_1761904301289.json.normalized.txt
+SEG-272,teaching_innovation,5,再次向AI提供实验结果时，AI直接提出了另一种药物Ripasudil，并建议人类专家使用RNA分析其增强吞噬作用的机理,response_1761904301289.json.normalized.txt
+SEG-273,teaching_innovation,5,整个研究的知识框架，完全由AI主导，而人类研究员起的作用，仅仅是执行物理实验而已,response_1761904301289.json.normalized.txt
+SEG-276,teaching_innovation,5,个性化学习路径定制,response_1761904301289.json.normalized.txt
+SEG-280,teaching_innovation,5,自动化教学管理评估,response_1761904301289.json.normalized.txt
+SEG-281,teaching_innovation,5,AI自动批改作业、生成详细学情分析报告、智能辅助备课，让教师从重复性工作中解脱，更专注于教学设计与深度互动。,response_1761904301289.json.normalized.txt
+SEG-283,teaching_innovation,5,虚拟实验室普及化应用,response_1761904301289.json.normalized.txt
+SEG-286,teaching_innovation,5,教师角色转型,response_1761904301289.json.normalized.txt
+SEG-287,teaching_innovation,5,虚实结合的未来课堂,response_1761904301289.json.normalized.txt
+SEG-290,teaching_innovation,5,建立产学研融合课程体系,response_1761904301289.json.normalized.txt
+SEG-305,teaching_innovation,5,部分示范课程,response_1761904301289.json.normalized.txt
+SEG-310,teaching_innovation,5,全球关注,response_1761904301289.json.normalized.txt
+SEG-312,teaching_innovation,5,- 底层接入多种AI模型 中层构建学科引擎 上层支撑教学应用,response_1761904301289.json.normalized.txt
+SEG-314,teaching_innovation,5,创新实践,response_1761904301289.json.normalized.txt
+SEG-321,teaching_innovation,5,1.  一位身着白色衬衫、佩戴眼镜的男性正在演讲，他站在讲台后方，面前有麦克风。,response_1761904301289.json.normalized.txt
+SEG-325,teaching_innovation,5,第二批 人工智能+高等教育 应用场景典型案例名单,response_1761904301289.json.normalized.txt
+SEG-005,impact_evaluation,6,此外，重点解决面向先进人工智能的教学数据改造、教学知识萃取等关键问题。通过建立统一数据标准，实现教学资源的智能化应用，助力高等教育智能化变革，促进AI时代教学质量提升。,response_1761903861983.json.normalized.txt
+SEG-016,impact_evaluation,6,该应用基于“天工AI”系列技术成果，依托专业知识库和检索增强生成技术，构建了可实现复杂功能的智能体工具。其核心应用功能包括：,response_1761903861983.json.normalized.txt
+SEG-026,impact_evaluation,6,当前界面处于“应用洞察”模块，其核心功能是“AI使用洞察，助力智慧教学”，旨在通过数据分析和可视化图表，为教学决策提供支持。主界面展示了多项教学运行数据，包括“24小时智能学伴”的学习单元数量（156个）、知识掌握率（70%）、学习完成率（,response_1761903861983.json.normalized.txt
+SEG-027,impact_evaluation,6,此外，界面还呈现了“知识点完成概况”、“知识点学习方式分布”等详细分析图表，以及“知识点问题观测”列表，这些功能均基于引擎层的“天工AI”系列技术成果，利用检索增强生成、跨语言混合检索和AI智能体等技术，实现了对多模态教学知识的整合与分析，,response_1761903861983.json.normalized.txt
+SEG-028,impact_evaluation,6,（三）应用优化,response_1761903861983.json.normalized.txt
+SEG-035,impact_evaluation,6,推动环境学科教育创新，借助先进人工智能技术加速环境领域教学的数字化变革。通过环境学科与人工智能技术深度融合，促进环境学科交叉融通，极大提升了大模型在环境学科教学场景的精确性，为高等教育提供了智能化,response_1761903861983.json.normalized.txt
+SEG-037,impact_evaluation,6,（一）应用前景或已经取得的应用成果,response_1761903861983.json.normalized.txt
+SEG-039,impact_evaluation,6,（三）在高等教育领域的示范引领作用,response_1761903861983.json.normalized.txt
+SEG-045,impact_evaluation,6,2.学生反馈,response_1761903861983.json.normalized.txt
+SEG-051,impact_evaluation,6,(4)用户培训与人工智能赋能环境学科相关会议,response_1761903897184.json.normalized.txt
+SEG-052,impact_evaluation,6,2.2预期成效,response_1761903897184.json.normalized.txt
+SEG-053,impact_evaluation,6,本项目将有效促进人工智能技术与环境学科核心科研环节的深度融合，显著提升知识检索、数据处理等关键环节的自动化与高效化水平，预计大幅减少基础性事务性工作时长，切实增强教师与科研团队的创新研究能力，对环境学科智能化发展具有重要推动作用。完善智能体,response_1761903897184.json.normalized.txt
+SEG-054,impact_evaluation,6,(2)构建开放共享的智能体工具生态体系,response_1761903897184.json.normalized.txt
+SEG-055,impact_evaluation,6,(3)打造环境学科与人工智能交叉融合示范,response_1761903897184.json.normalized.txt
+SEG-111,impact_evaluation,6,水质检测分析,response_1761904025700.json.normalized.txt
+SEG-117,impact_evaluation,6,水动力模拟,response_1761904025700.json.normalized.txt
+SEG-122,impact_evaluation,6,项目财务分析,response_1761904025700.json.normalized.txt
+SEG-124,impact_evaluation,6,数据可视化,response_1761904025700.json.normalized.txt
+SEG-129,impact_evaluation,6,本科生试用感受,response_1761904025700.json.normalized.txt
+SEG-150,impact_evaluation,6,清华大学环境学科知识引擎-学习成效评价,response_1761904025700.json.normalized.txt
+SEG-164,impact_evaluation,6,平台以“氨循环”为核心，构建了涵盖医疗垃圾、生活垃圾、污水处理、废气处理等多源污染治理的全链条虚拟场景，各环节数据实时交互，形成“互为支撑、互为应用”的闭环系统。,response_1761904025700.json.normalized.txt
+SEG-166,impact_evaluation,6,该环境学科引擎不仅服务于教学，更深度赋能科研工作，实现从数据感知、流程模拟到智能分析的全流程支持，推动环境学科知识的智能化应用与创新。,response_1761904025700.json.normalized.txt
+SEG-176,impact_evaluation,6,通过大语言模型与教育场景的深度融合，逐步构建起个性化、多元化、智能化的教育生态系统,response_1761904025700.json.normalized.txt
+SEG-185,impact_evaluation,6,tiangong-ai-mcp Public tiangong-ai-langgraph-server Public liangong-ai-langgraph-server tiangong-ai-edge-function T1iang,response_1761904025700.json.normalized.txt
+SEG-200,impact_evaluation,6,2.1教学内容与社会发展变革衔接不足,response_1761904025700.json.normalized.txt
+SEG-216,impact_evaluation,6,3.2 提升教育质量效能，促进资源均衡发展,response_1761904336509.json.normalized.txt
+SEG-217,impact_evaluation,6,源的局限，以Kaiwu工具为例（图1），针对某一问题相较传统依靠关键词检索、逐篇阅读的方式，学生现可通过AI实时定位和获取文献中的有效信息与研究成果，大幅提升知识获取效率。AI技术还可通过智能平台将优质教育资源、知识扩展至偏远地区，优化资源,response_1761904336509.json.normalized.txt
+SEG-221,impact_evaluation,6,4.1 明确自身优势，找准定位,response_1761904336509.json.normalized.txt
+SEG-242,impact_evaluation,6,问题、生成文本、进行自然语言处理等任务本，这些数据被用来训练模型的语言理解和,response_1761904301289.json.normalized.txt
+SEG-255,impact_evaluation,6,训练数据里没有的任务，它完全不会做,response_1761904301289.json.normalized.txt
+SEG-262,impact_evaluation,6,- 速度激增：从12个月500T+到2个月500T+，增长速度是常规互联网增长的数十倍,response_1761904301289.json.normalized.txt
+SEG-267,impact_evaluation,6,·预设任务：在满足排放标准的前提下最大化燃烧效率,response_1761904301289.json.normalized.txt
+SEG-268,impact_evaluation,6,智能推理：结合任务目标判断如何调整风煤比,response_1761904301289.json.normalized.txt
+SEG-277,impact_evaluation,6,AI深度分析学情数据，动态生成专属学习地图，精准推荐学习资源与练习题目，实现真正的自适应学习体验。,response_1761904301289.json.normalized.txt
+SEG-279,impact_evaluation,6,通过虚拟实验室、历史场景重现、AI智能口语陪练等创新方式，提供情境化、游戏化的实践环境，显著提升学习兴趣与效果。,response_1761904301289.json.normalized.txt
+SEG-285,impact_evaluation,6,中西部教师培训提升,response_1761904301289.json.normalized.txt
+SEG-298,impact_evaluation,6,当前，国际上各教育机构正将AI提升为推动教育模式深层变革的战略性力量 构建更具个性化、包容性、高效能且关注人的核心价值的未来教育图景。,response_1761904301289.json.normalized.txt
+SEG-316,impact_evaluation,6,科学反思,response_1761904301289.json.normalized.txt
+SEG-317,impact_evaluation,6,寻找短期提升与长期记忆的平衡,response_1761904301289.json.normalized.txt
+SEG-320,impact_evaluation,6,- 图像主体为一位身着浅色衬衫的男性，正手持麦克风，处于演讲或教学状态，背景为深色板面，可能为教室或会议环境。,response_1761904301289.json.normalized.txt
+SEG-344,impact_evaluation,6,√ 工程应用,response_1761904301289.json.normalized.txt
+SEG-092,sustainability_scaling,7,生态环境可持续领域通用知识库 (700亿Token量级),response_1761904025700.json.normalized.txt
